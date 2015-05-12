@@ -1,6 +1,12 @@
 LZ4 - Extremely fast compression
 ================================
 
+This is a fork from LZ4 to enable its use with Biicode
+
+Fork Github repository: https://github.com/rob100/lz4
+
+Original Github repository: https://github.com/Cyan4973/lz4
+
 LZ4 is lossless compression algorithm, 
 providing compression speed at 400 MB/s per core, 
 scalable with multi-cores CPU. 

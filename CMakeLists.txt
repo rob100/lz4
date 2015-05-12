@@ -1,5 +1,3 @@
-# Remove example projects from build
-LIST(REMOVE_ITEM BII_BLOCK_EXES examples_blockStreaming_doubleBuffer examples_blockStreaming_lineByLine examples_blockStreaming_ringBuffer examples_HCStreaming_ringBuffer examples_printVersion)
 
 ADD_BII_TARGETS()
 
